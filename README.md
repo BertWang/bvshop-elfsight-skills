@@ -1,6 +1,6 @@
 # WAFO BVSHOP × Elfsight Codex Project
 
-這個 repo 是給線上 Codex / Codex Web 使用的專案模板，用來處理「話佛牌 BVSHOP × Elfsight 外掛嵌入」任務。
+這個 repo 是給線上 Codex / Codex Web 使用的專案模板，用來處理「BVSHOP × Elfsight 外掛嵌入」任務。
 
 核心原則：
 
